@@ -1,0 +1,22 @@
+{
+  "name": "s3-encrypt-client",
+  "version": "1.0.0",
+  "description": "A wrapper around S3 with client-side encryption",
+  "main": "src/index.js",
+  "repository": "git@github.com:yyyyaaa/s3-encrypt-client.git",
+  "author": "PhatG <phatghaa@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "aws-sdk": "^2.670.0"
+  },
+  "dependencies": {
+    "multipipe": "^4.0.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.670.0",
+    "jest": "^26.0.1"
+  }
+}
