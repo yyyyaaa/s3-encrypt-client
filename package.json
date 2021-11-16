@@ -10,13 +10,13 @@
     "test": "jest"
   },
   "peerDependencies": {
-    "aws-sdk": "^2.670.0"
+    "aws-sdk": "^2.814.0"
   },
   "dependencies": {
     "multipipe": "^4.0.0"
   },
   "devDependencies": {
-    "aws-sdk": "^2.670.0",
+    "aws-sdk": "^2.814.0",
     "jest": "^26.0.1"
   }
 }
